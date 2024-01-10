@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.exe
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.deps.json
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.runtimeconfig.json
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.dll
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.pdb
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.AssemblyInfo.cs
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.sourcelink.json
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.dll
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\refint\3. Simple Calculator.dll
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.pdb
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.genruntimeconfig.cache
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net6.0\ref\3. Simple Calculator.dll

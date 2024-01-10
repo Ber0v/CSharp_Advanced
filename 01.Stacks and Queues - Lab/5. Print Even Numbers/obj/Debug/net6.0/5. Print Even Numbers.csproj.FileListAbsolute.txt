@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfo.cs
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.sourcelink.json
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.exe
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.deps.json
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.runtimeconfig.json
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.dll
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.pdb
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.dll
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\refint\5. Print Even Numbers.dll
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.pdb
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.genruntimeconfig.cache
+P:\CSharp_Advanced\01.Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net6.0\ref\5. Print Even Numbers.dll
