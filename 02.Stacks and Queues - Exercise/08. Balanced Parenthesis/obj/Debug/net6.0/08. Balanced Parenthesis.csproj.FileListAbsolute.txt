@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net6.0\08. Balanced Parenthesis.exe
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net6.0\08. Balanced Parenthesis.deps.json
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net6.0\08. Balanced Parenthesis.runtimeconfig.json
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net6.0\08. Balanced Parenthesis.dll
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net6.0\08. Balanced Parenthesis.pdb
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.AssemblyInfo.cs
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.sourcelink.json
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.dll
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\refint\08. Balanced Parenthesis.dll
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.pdb
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\08. Balanced Parenthesis.genruntimeconfig.cache
+P:\CSharp_Advanced\02.Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net6.0\ref\08. Balanced Parenthesis.dll

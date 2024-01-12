@@ -1,0 +1,15 @@
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.exe
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.deps.json
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.runtimeconfig.json
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.dll
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net6.0\01. Basic Stack Operations.pdb
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.AssemblyInfo.cs
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.sourcelink.json
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.dll
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\refint\01. Basic Stack Operations.dll
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.pdb
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\01. Basic Stack Operations.genruntimeconfig.cache
+P:\My_Stupid_Things\02.Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net6.0\ref\01. Basic Stack Operations.dll
