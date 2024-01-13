@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.exe
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.deps.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.runtimeconfig.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.pdb
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfo.cs
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.sourcelink.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\refint\7. Pascal Triangle.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.pdb
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.genruntimeconfig.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\ref\7. Pascal Triangle.dll

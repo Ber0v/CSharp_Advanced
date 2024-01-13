@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.exe
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.deps.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.runtimeconfig.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.pdb
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfo.cs
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.sourcelink.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\refint\2. Sum Matrix Columns.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.pdb
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.genruntimeconfig.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\net6.0\ref\2. Sum Matrix Columns.dll

@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.exe
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.deps.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.runtimeconfig.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net6.0\3. Primary Diagonal.pdb
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.AssemblyInfo.cs
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.sourcelink.json
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\refint\3. Primary Diagonal.dll
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.pdb
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\3. Primary Diagonal.genruntimeconfig.cache
+P:\CSharp_Advanced\03.Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net6.0\ref\3. Primary Diagonal.dll
