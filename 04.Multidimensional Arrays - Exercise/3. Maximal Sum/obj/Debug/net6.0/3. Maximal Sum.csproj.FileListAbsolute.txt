@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.exe
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.deps.json
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.runtimeconfig.json
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.dll
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.pdb
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfo.cs
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.sourcelink.json
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.dll
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\refint\3. Maximal Sum.dll
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.pdb
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.genruntimeconfig.cache
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net6.0\ref\3. Maximal Sum.dll

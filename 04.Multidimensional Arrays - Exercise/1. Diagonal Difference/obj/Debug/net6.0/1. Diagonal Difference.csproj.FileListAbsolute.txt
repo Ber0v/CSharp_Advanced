@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.exe
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.deps.json
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.runtimeconfig.json
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.dll
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net6.0\1. Diagonal Difference.pdb
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfo.cs
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.sourcelink.json
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.dll
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\refint\1. Diagonal Difference.dll
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.pdb
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\1. Diagonal Difference.genruntimeconfig.cache
+P:\CSharp_Advanced\04.Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net6.0\ref\1. Diagonal Difference.dll
