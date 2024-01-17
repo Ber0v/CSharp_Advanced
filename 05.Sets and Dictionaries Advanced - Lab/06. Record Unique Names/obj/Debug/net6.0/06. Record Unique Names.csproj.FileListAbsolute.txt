@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.exe
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.deps.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.runtimeconfig.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfo.cs
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.sourcelink.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\refint\06. Record Unique Names.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.genruntimeconfig.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\net6.0\ref\06. Record Unique Names.dll

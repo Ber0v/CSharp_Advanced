@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.exe
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.deps.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.runtimeconfig.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.AssemblyInfo.cs
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.sourcelink.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\refint\01. Count Same Values in Array.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.genruntimeconfig.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\net6.0\ref\01. Count Same Values in Array.dll

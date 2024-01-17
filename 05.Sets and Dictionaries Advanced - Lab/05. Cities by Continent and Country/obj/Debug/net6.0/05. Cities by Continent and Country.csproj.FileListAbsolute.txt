@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net6.0\05. Cities by Continent and Country.exe
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net6.0\05. Cities by Continent and Country.deps.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net6.0\05. Cities by Continent and Country.runtimeconfig.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net6.0\05. Cities by Continent and Country.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net6.0\05. Cities by Continent and Country.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.AssemblyInfo.cs
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.sourcelink.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\refint\05. Cities by Continent and Country.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\05. Cities by Continent and Country.genruntimeconfig.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net6.0\ref\05. Cities by Continent and Country.dll

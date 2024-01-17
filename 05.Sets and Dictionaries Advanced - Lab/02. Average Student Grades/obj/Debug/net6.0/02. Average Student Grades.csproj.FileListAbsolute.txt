@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.exe
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.deps.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.runtimeconfig.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net6.0\02. Average Student Grades.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.AssemblyInfo.cs
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.sourcelink.json
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\refint\02. Average Student Grades.dll
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.pdb
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\02. Average Student Grades.genruntimeconfig.cache
+P:\CSharp_Advanced\05.Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net6.0\ref\02. Average Student Grades.dll
