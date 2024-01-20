@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.exe
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.deps.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.runtimeconfig.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\bin\Debug\net6.0\03. Word Count.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfo.cs
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.sourcelink.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\refint\03. Word Count.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\03. Word Count.genruntimeconfig.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\03. Word Count\obj\Debug\net6.0\ref\03. Word Count.dll

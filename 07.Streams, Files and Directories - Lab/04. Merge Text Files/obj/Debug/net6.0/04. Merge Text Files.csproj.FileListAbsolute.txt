@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.exe
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.deps.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.runtimeconfig.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.AssemblyInfo.cs
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.sourcelink.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\refint\04. Merge Text Files.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.genruntimeconfig.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\net6.0\ref\04. Merge Text Files.dll

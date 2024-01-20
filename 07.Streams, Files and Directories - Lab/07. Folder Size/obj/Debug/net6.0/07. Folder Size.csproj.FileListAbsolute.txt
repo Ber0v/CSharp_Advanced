@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.exe
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.deps.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.runtimeconfig.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.AssemblyInfo.cs
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.sourcelink.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\refint\07. Folder Size.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.genruntimeconfig.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\ref\07. Folder Size.dll

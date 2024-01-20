@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.exe
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.deps.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.runtimeconfig.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfo.cs
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.sourcelink.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\refint\01. Odd Lines.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.genruntimeconfig.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net6.0\ref\01. Odd Lines.dll

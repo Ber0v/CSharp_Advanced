@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.exe
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.deps.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.runtimeconfig.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfo.cs
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.sourcelink.json
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\refint\05. Extract Special Bytes.dll
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.pdb
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.genruntimeconfig.cache
+P:\CSharp_Advanced\07.Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\net6.0\ref\05. Extract Special Bytes.dll
