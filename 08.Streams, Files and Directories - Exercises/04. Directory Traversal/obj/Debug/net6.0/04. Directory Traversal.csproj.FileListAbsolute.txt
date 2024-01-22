@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.exe
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.deps.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.runtimeconfig.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfo.cs
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.sourcelink.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\refint\04. Directory Traversal.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.genruntimeconfig.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\net6.0\ref\04. Directory Traversal.dll

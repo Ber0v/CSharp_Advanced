@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfo.cs
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.sourcelink.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.exe
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.deps.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.runtimeconfig.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\refint\02. Line Numbers.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.genruntimeconfig.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\ref\02. Line Numbers.dll

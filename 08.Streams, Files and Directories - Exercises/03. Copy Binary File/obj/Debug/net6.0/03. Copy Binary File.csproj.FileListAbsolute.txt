@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.exe
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.deps.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.runtimeconfig.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfo.cs
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.sourcelink.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\refint\03. Copy Binary File.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.genruntimeconfig.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\ref\03. Copy Binary File.dll

@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.exe
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.deps.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.runtimeconfig.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfo.cs
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.sourcelink.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\refint\06. Zip and Extracts.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.genruntimeconfig.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\net6.0\ref\06. Zip and Extracts.dll

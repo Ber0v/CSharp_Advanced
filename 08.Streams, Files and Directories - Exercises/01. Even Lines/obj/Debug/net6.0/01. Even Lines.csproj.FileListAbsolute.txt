@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.exe
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.deps.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.runtimeconfig.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\net6.0\01. Even Lines.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfo.cs
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.sourcelink.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\refint\01. Even Lines.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\01. Even Lines.genruntimeconfig.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\net6.0\ref\01. Even Lines.dll

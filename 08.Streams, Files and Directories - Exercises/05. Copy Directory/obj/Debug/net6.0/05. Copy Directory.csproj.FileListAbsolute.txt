@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.exe
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.deps.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.runtimeconfig.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfo.cs
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.sourcelink.json
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\refint\05. Copy Directory.dll
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.pdb
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.genruntimeconfig.cache
+P:\CSharp_Advanced\08.Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\ref\05. Copy Directory.dll
