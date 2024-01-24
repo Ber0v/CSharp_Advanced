@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.exe
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.deps.json
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.runtimeconfig.json
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.dll
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.pdb
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfo.cs
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.sourcelink.json
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.dll
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\refint\01. Sort Even Numbers.dll
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.pdb
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.genruntimeconfig.cache
+P:\CSharp_Advanced\09.Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net6.0\ref\01. Sort Even Numbers.dll
