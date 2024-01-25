@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net6.0\05. Applied Arithmetics.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\refint\05. Applied Arithmetics.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\05. Applied Arithmetics.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net6.0\ref\05. Applied Arithmetics.dll

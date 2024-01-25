@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\refint\07. Predicate For Names.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net6.0\ref\07. Predicate For Names.dll

@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net6.0\03. Custom Min Function.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\refint\03. Custom Min Function.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\03. Custom Min Function.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net6.0\ref\03. Custom Min Function.dll

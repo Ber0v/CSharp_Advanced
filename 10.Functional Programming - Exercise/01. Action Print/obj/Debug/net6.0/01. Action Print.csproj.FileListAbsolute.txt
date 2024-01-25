@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll

@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\bin\Debug\net6.0\04. Find Evens or Odds.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\refint\04. Find Evens or Odds.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\04. Find Evens or Odds.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\04. Find Evens or Odds\obj\Debug\net6.0\ref\04. Find Evens or Odds.dll

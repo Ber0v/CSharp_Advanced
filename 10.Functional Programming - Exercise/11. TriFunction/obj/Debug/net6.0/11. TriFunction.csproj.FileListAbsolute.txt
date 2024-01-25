@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\bin\Debug\net6.0\11. TriFunction.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\refint\11. TriFunction.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\11. TriFunction.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\11. TriFunction\obj\Debug\net6.0\ref\11. TriFunction.dll

@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.exe
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.deps.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.runtimeconfig.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net6.0\06. Reverse And Exclude.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.AssemblyInfo.cs
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.sourcelink.json
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\refint\06. Reverse And Exclude.dll
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.pdb
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\06. Reverse And Exclude.genruntimeconfig.cache
+P:\CSharp_Advanced\10.Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net6.0\ref\06. Reverse And Exclude.dll
