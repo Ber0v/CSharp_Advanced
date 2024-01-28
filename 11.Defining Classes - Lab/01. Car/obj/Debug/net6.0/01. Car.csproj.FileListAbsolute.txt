@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.exe
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.deps.json
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.runtimeconfig.json
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.dll
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.pdb
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfo.cs
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.sourcelink.json
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.dll
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\refint\01. Car.dll
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.pdb
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.genruntimeconfig.cache
+P:\CSharp_Advanced\11.Defining Classes - Lab\01. Car\obj\Debug\net6.0\ref\01. Car.dll
