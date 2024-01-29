@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.exe
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.deps.json
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.runtimeconfig.json
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.dll
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\bin\Debug\net6.0\04. Opinion Poll.pdb
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.AssemblyInfo.cs
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.sourcelink.json
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.dll
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\refint\04. Opinion Poll.dll
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.pdb
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\04. Opinion Poll.genruntimeconfig.cache
+P:\CSharp_Advanced\12.Defining Classes - Exercise\04. Opinion Poll\obj\Debug\net6.0\ref\04. Opinion Poll.dll
