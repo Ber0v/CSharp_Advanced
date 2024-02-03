@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _07.RawData
+namespace DefiningClasses
 {
     public class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int numberOfCars = int.Parse(Console.ReadLine());
             List<Car> cars = new List<Car>();
@@ -34,9 +34,9 @@ namespace _07.RawData
             {
                 filtered = cars.Where(c=>c.Cargo.Type=="fragile" && c.Tier.Any(t=>t.Pressure<1)).ToList();
             }
-            else if (type=="flamable")
+            else if (type=="flammable")
             {
-                filtered = cars.Where(c=>c.Cargo.Type=="flamable" && c.Engine.Power>250).ToList();
+                filtered = cars.Where(c=>c.Cargo.Type=="flammable" && c.Engine.Power>250).ToList();
             }
 
             foreach (Car car in filtered)

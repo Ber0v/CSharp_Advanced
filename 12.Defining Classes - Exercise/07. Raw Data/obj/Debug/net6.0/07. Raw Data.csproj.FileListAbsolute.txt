@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.AssemblyInfo.cs
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.sourcelink.json
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.exe
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.deps.json
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.runtimeconfig.json
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.dll
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\bin\Debug\net6.0\07. Raw Data.pdb
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.dll
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\refint\07. Raw Data.dll
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.pdb
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\07. Raw Data.genruntimeconfig.cache
+P:\CSharp_Advanced\12.Defining Classes - Exercise\07. Raw Data\obj\Debug\net6.0\ref\07. Raw Data.dll
