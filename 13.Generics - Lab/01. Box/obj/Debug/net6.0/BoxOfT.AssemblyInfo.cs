@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoxOfT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40d0b9885d0ff57ebbfc81720ebe7770272ee68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b05319c62aff006ab0dd59bfb6a64dc57d364fd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoxOfT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoxOfT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

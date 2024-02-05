@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\Genereics.exe
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\Genereics.deps.json
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\Genereics.runtimeconfig.json
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\Genereics.dll
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\bin\Debug\net6.0\Genereics.pdb
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.AssemblyInfo.cs
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.sourcelink.json
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.dll
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\refint\Genereics.dll
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.pdb
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\Genereics.genruntimeconfig.cache
+P:\CSharp_Advanced\14.Generics - Exercise\02. Generic Box of Integer\obj\Debug\net6.0\ref\Genereics.dll
