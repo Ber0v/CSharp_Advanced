@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\01. Library.exe
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\01. Library.deps.json
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\01. Library.runtimeconfig.json
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\01. Library.dll
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\bin\Debug\net6.0\01. Library.pdb
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.AssemblyInfo.cs
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.sourcelink.json
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.dll
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\refint\01. Library.dll
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.pdb
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\01. Library.genruntimeconfig.cache
+P:\CSharp_Advanced\15.Iterators and Comparators - Lab\01. Library\obj\Debug\net6.0\ref\01. Library.dll
