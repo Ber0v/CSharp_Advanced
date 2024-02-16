@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83C33865-27F5-47AD-8924-E16DA1CAF2BC}|03. Mail Client\\MailClient.csproj|p:\\csharp_advanced\\advanced_regular_exam\\advanced regular exam - 21 october 2023\\03. mail client\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C33865-27F5-47AD-8924-E16DA1CAF2BC}|03. Mail Client\\MailClient.csproj|solutionrelative:03. mail client\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C33865-27F5-47AD-8924-E16DA1CAF2BC}|03. Mail Client\\MailClient.csproj|p:\\csharp_advanced\\advanced_regular_exam\\advanced regular exam - 21 october 2023\\03. mail client\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C33865-27F5-47AD-8924-E16DA1CAF2BC}|03. Mail Client\\MailClient.csproj|solutionrelative:03. mail client\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C33865-27F5-47AD-8924-E16DA1CAF2BC}|03. Mail Client\\MailClient.csproj|p:\\csharp_advanced\\advanced_regular_exam\\advanced regular exam - 21 october 2023\\03. mail client\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C33865-27F5-47AD-8924-E16DA1CAF2BC}|03. Mail Client\\MailClient.csproj|solutionrelative:03. mail client\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D86BDF9-0ACF-43C4-A80E-C1D4A0B40F12}|02. Fishing Competition\\02. Fishing Competition.csproj|p:\\csharp_advanced\\advanced_regular_exam\\advanced regular exam - 21 october 2023\\02. fishing competition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D86BDF9-0ACF-43C4-A80E-C1D4A0B40F12}|02. Fishing Competition\\02. Fishing Competition.csproj|solutionrelative:02. fishing competition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBD25C9-853A-4726-9FBA-4C2C0491B4E7}|01. Offroad Challenge\\01. Offroad Challenge.csproj|p:\\csharp_advanced\\advanced_regular_exam\\advanced regular exam - 21 october 2023\\01. offroad challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBD25C9-853A-4726-9FBA-4C2C0491B4E7}|01. Offroad Challenge\\01. Offroad Challenge.csproj|solutionrelative:01. offroad challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\03. Mail Client\\Mail.cs",
+              "RelativeDocumentMoniker": "03. Mail Client\\Mail.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\03. Mail Client\\Mail.cs",
+              "RelativeToolTip": "03. Mail Client\\Mail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T13:31:12.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailBox.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\03. Mail Client\\MailBox.cs",
+              "RelativeDocumentMoniker": "03. Mail Client\\MailBox.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\03. Mail Client\\MailBox.cs",
+              "RelativeToolTip": "03. Mail Client\\MailBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T13:30:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\03. Mail Client\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Mail Client\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\03. Mail Client\\StartUp.cs",
+              "RelativeToolTip": "03. Mail Client\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T13:30:14.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\02. Fishing Competition\\Program.cs",
+              "RelativeDocumentMoniker": "02. Fishing Competition\\Program.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\02. Fishing Competition\\Program.cs",
+              "RelativeToolTip": "02. Fishing Competition\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAQwGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T13:11:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\01. Offroad Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "01. Offroad Challenge\\Program.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\Advanced Regular Exam - 21 October 2023\\01. Offroad Challenge\\Program.cs",
+              "RelativeToolTip": "01. Offroad Challenge\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:30:24.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

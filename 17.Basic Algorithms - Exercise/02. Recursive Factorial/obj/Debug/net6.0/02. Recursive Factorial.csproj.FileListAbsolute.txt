@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.exe
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.deps.json
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.runtimeconfig.json
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.dll
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.pdb
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfo.cs
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.sourcelink.json
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.dll
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\refint\02. Recursive Factorial.dll
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.pdb
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.genruntimeconfig.cache
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\ref\02. Recursive Factorial.dll

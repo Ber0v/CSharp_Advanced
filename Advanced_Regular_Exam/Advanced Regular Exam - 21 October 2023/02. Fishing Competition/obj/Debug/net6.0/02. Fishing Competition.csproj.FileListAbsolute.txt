@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.exe
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.deps.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.runtimeconfig.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.AssemblyInfo.cs
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.sourcelink.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\refint\02. Fishing Competition.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.genruntimeconfig.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\02. Fishing Competition\obj\Debug\net6.0\ref\02. Fishing Competition.dll

@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.exe
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.deps.json
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.runtimeconfig.json
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.dll
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.pdb
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.AssemblyInfo.cs
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.sourcelink.json
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.dll
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\refint\01. Recursive Array Sum.dll
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.pdb
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.genruntimeconfig.cache
+P:\CSharp_Advanced\17.Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net6.0\ref\01. Recursive Array Sum.dll

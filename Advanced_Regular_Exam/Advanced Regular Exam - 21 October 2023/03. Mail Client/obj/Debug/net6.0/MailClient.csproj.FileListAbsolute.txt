@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\MailClient.exe
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\MailClient.deps.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\MailClient.runtimeconfig.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\MailClient.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\bin\Debug\net6.0\MailClient.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.sourcelink.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\refint\MailClient.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\Advanced Regular Exam - 21 October 2023\03. Mail Client\obj\Debug\net6.0\ref\MailClient.dll
