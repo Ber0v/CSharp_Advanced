@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69614DB3-C0C2-415F-AE34-FD7784D97392}|03. Shark Taxonomy\\SharkTaxonomy.csproj|p:\\csharp_advanced\\advanced_regular_exam\\c# advanced regular exam - 17 february 2024\\03. shark taxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69614DB3-C0C2-415F-AE34-FD7784D97392}|03. Shark Taxonomy\\SharkTaxonomy.csproj|solutionrelative:03. shark taxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69614DB3-C0C2-415F-AE34-FD7784D97392}|03. Shark Taxonomy\\SharkTaxonomy.csproj|p:\\csharp_advanced\\advanced_regular_exam\\c# advanced regular exam - 17 february 2024\\03. shark taxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69614DB3-C0C2-415F-AE34-FD7784D97392}|03. Shark Taxonomy\\SharkTaxonomy.csproj|solutionrelative:03. shark taxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69614DB3-C0C2-415F-AE34-FD7784D97392}|03. Shark Taxonomy\\SharkTaxonomy.csproj|p:\\csharp_advanced\\advanced_regular_exam\\c# advanced regular exam - 17 february 2024\\03. shark taxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69614DB3-C0C2-415F-AE34-FD7784D97392}|03. Shark Taxonomy\\SharkTaxonomy.csproj|solutionrelative:03. shark taxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fd92f3d8-cebf-47b9-bb98-674a1618f364}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classifier.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\03. Shark Taxonomy\\Classifier.cs",
+              "RelativeDocumentMoniker": "03. Shark Taxonomy\\Classifier.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\03. Shark Taxonomy\\Classifier.cs",
+              "RelativeToolTip": "03. Shark Taxonomy\\Classifier.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:42:02.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\03. Shark Taxonomy\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Shark Taxonomy\\StartUp.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\03. Shark Taxonomy\\StartUp.cs",
+              "RelativeToolTip": "03. Shark Taxonomy\\StartUp.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:37:56.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shark.cs",
+              "DocumentMoniker": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\03. Shark Taxonomy\\Shark.cs",
+              "RelativeDocumentMoniker": "03. Shark Taxonomy\\Shark.cs",
+              "ToolTip": "P:\\CSharp_Advanced\\Advanced_Regular_Exam\\C# Advanced Regular Exam - 17 February 2024\\03. Shark Taxonomy\\Shark.cs",
+              "RelativeToolTip": "03. Shark Taxonomy\\Shark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:37:49.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

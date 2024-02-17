@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\bin\Debug\net6.0\SharkTaxonomy.exe
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\bin\Debug\net6.0\SharkTaxonomy.deps.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\bin\Debug\net6.0\SharkTaxonomy.runtimeconfig.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\bin\Debug\net6.0\SharkTaxonomy.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\bin\Debug\net6.0\SharkTaxonomy.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfo.cs
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.sourcelink.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\refint\SharkTaxonomy.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\SharkTaxonomy.genruntimeconfig.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\03. Shark Taxonomy\obj\Debug\net6.0\ref\SharkTaxonomy.dll

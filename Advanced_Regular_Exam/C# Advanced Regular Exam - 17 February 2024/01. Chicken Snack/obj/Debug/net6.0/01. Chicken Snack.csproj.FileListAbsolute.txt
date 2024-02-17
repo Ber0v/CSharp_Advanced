@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\bin\Debug\net6.0\01. Chicken Snack.exe
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\bin\Debug\net6.0\01. Chicken Snack.deps.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\bin\Debug\net6.0\01. Chicken Snack.runtimeconfig.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\bin\Debug\net6.0\01. Chicken Snack.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\bin\Debug\net6.0\01. Chicken Snack.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.AssemblyInfo.cs
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.sourcelink.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\refint\01. Chicken Snack.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\01. Chicken Snack.genruntimeconfig.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\01. Chicken Snack\obj\Debug\net6.0\ref\01. Chicken Snack.dll

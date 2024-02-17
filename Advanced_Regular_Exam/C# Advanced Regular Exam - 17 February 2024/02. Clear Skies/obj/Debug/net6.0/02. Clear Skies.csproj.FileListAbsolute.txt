@@ -1,0 +1,15 @@
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.exe
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.deps.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.runtimeconfig.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\bin\Debug\net6.0\02. Clear Skies.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.AssemblyInfoInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.AssemblyInfo.cs
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.csproj.CoreCompileInputs.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.sourcelink.json
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\refint\02. Clear Skies.dll
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.pdb
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\02. Clear Skies.genruntimeconfig.cache
+P:\CSharp_Advanced\Advanced_Regular_Exam\C# Advanced Regular Exam - 17 February 2024\02. Clear Skies\obj\Debug\net6.0\ref\02. Clear Skies.dll
